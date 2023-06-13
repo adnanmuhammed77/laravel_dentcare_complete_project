@@ -1,6 +1,7 @@
 # laravel_dentcare_complete_project
 Complete project with CRUD, Image Upload  
 
+This Online Medical Management System  created based on php ,Laravel . The Online Medical Management System is specially designed for online doctor's appointment booking and the list of services. Like every other e-commerce platform, allows customers of the website to view the list of the doctors and the respective departments.
 
 ![dentcare-img1](https://github.com/adnanmuhammed77/laravel_dentcare_complete_project/assets/123747361/9237830e-ec98-4308-90b5-9182846c45b1)
 
